@@ -3616,14 +3616,14 @@ a, button, input, textarea, .clickable {
 .progress-bar.communication {
   --progress-percent: 75%;
 }
-.progress-bar.leadership {
-  --progress-percent: 70%;
-}
-.progress-bar.teamwork {
+.progress-bar.patience {
   --progress-percent: 90%;
 }
+.progress-bar.teamwork {
+  --progress-percent: 70%;
+}
 .progress-bar.flexibility {
-  --progress-percent: 80%;
+  --progress-percent: 85%;
 }
 .cube {
   width: 100px;
