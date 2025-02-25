@@ -1,6 +1,7 @@
 # Portfolio 
 **This is my own portfolio based on my experience and skills created by tailwind 4.0**
--![portfolio](https://github.com/user-attachments/assets/ff73f7b1-9195-40d4-8ce0-f13c7cfc31fd)
+
+![portfolio](https://github.com/user-attachments/assets/ff73f7b1-9195-40d4-8ce0-f13c7cfc31fd)
 - [Demo Project]( https://nima-frontend.github.io/portfolio/)
 - Developed by Nima Pourdad
 - Created - 2025-2-25
