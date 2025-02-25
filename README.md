@@ -1,7 +1,7 @@
-# portfolio 
+# Portfolio 
 **This is my own portfolio created based on my experience and skills**
 
-- [Demo Project](https://nima-frontend.github.io/Home-Smart/)
+- [Demo Project]( https://nima-frontend.github.io/portfolio/)
 - Developed by Nima Pourdad
 - Created - 2025-2-25
 - Technologies Used - Html ,Tailwind css , JS 
