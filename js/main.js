@@ -66,7 +66,7 @@ close.addEventListener('click', () => {
 //typed text
 document.addEventListener("DOMContentLoaded", function () {
     const textElement = document.getElementById("typed-text");
-    const words = ["Nima", "a Front-End Developer", "a Creative Designer"];
+    const words = ["Nima", "a Front-End", "Developer"];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
