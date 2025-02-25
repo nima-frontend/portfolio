@@ -66,7 +66,7 @@ close.addEventListener('click', () => {
 //typed text
 document.addEventListener("DOMContentLoaded", function () {
     const textElement = document.getElementById("typed-text");
-    const words = ["Nima", "a Front-End", "Developer"];
+    const words = ["Nima", "a Front-End", "Developer","a Creative","Designer"];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
             charIndex--;
         }
 
-        let speed = isDeleting ? 50 : 100; // Speed: Typing vs Deleting
+        let speed = isDeleting ? 40 : 100; // Speed: Typing vs Deleting
 
         if (!isDeleting && charIndex === currentWord.length) {
             delay = 1200; 
