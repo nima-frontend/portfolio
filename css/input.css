@@ -3,7 +3,6 @@
 @theme {
     --font-poppins: "Poppins", sans-serif;
     --font-garamond: "Cormorant Garamond", serif;
-    --spacing-16: 16rem;
 }
 body{
     font:"Poppins",sans-serif;
